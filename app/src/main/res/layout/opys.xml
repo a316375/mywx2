@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/prompt1" >
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" 
+        
+      
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/background_compass" />
+
+        <com.mylp.vp
+            android:id="@+id/compass_pointer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/mylpan" />
+          <FrameLayout
+                            android:id="@+id/sss"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_gravity="center" >
+
+                            <com.mylp.y
+                                android:id="@+id/spy"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/big" />
+
+                        </FrameLayout>
+
+          <ImageView
+                            android:id="@+id/shizhixian"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_gravity="center"
+                              android:scaleType="fitXY"
+                              android:src="@drawable/xz"
+                            />
+    </FrameLayout>
+
+    
+
+</FrameLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">精品罗盘</string>
+    <string name="hello_world">点击进入</string>
+    <string name="action_settings">关于</string>
+    <string name="help">帮助</string>
+    <string name="exit">退出</string>
+    <string name="vip">支持正版</string>
+    <string name="app_label">Compass</string>
+    <string name="getting_location"></string>
+    <string name="cannot_get_location"></string>
+    <string name="location_north">%s N</string>
+    <string name="location_south">%s S</string>
+    <string name="location_east">%s E</string>
+    <string name="location_west">%s W</string>
+    <string name="EXIT_TIME">再按一次退出</string>
+    <string name="bug">欢迎使用精品罗盘</string>
+    <string name="buu">使用时请将罗盘水平放置在地面</string>
+    <string name="buq">测量错误时建议旋转手机侧面来测量坐向</string>
+    <string name="buo">建议使用手机比较整齐的侧面来测量坐向</string>
+    <string name="buc">这个罗盘软件显示的度数仅供测量者参考</string>
+    <string name="bua">BUG反馈联系QQ201418920</string>
+
+    <string name="configalls">再按一次退出程序</string>
+    <string name="coinfalla">再按一次退出程序</string>
+    <string name="cionfigallb">再按一次退出</string>
+    <string name="cionfagallc">再按一次退出</string>
+    <string name="coinfigalld">再按一次退出程序</string>
+    <string name="coinfigoll">再按一次退出程序</string>
+    <string name="out">点击退出</string>
+    <string name="in">点击进入</string>
+
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
